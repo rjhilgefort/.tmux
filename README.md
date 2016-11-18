@@ -35,7 +35,7 @@ tmux source ~/.tmux.conf
 ```
 
 # TODO
-- Break out config and key binds
 - Set up theme
 - Check out sensible
-- don't source from home directory, use relative path (in case they symlink somehwere crazy)
+- Rename files, no need for tmux prefix
+- Conditionally include a gitignored user config file
