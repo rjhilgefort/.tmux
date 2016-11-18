@@ -35,7 +35,7 @@ tmux source ~/.tmux.conf
 ```
 
 # TODO
-- Set up theme
 - Check out sensible
 - Rename files, no need for tmux prefix
 - Conditionally include a gitignored user config file
+- Consider just making this a TPM plugin. Current advantage is drop and go setup for brand new tmux users. Multi-install setup that caters to both types of users?
